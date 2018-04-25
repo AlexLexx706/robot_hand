@@ -39,3 +39,7 @@ Price for materials:
 --------------------
 30000 р.
 
+
+First schema:
+-------------
+![Schema](/schema.png)
